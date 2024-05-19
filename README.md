@@ -26,7 +26,16 @@ Despues de Elejir la conversion deseadad, se debe introducir la cantidad que se 
 
 ![Conversor 1](https://github.com/JavierFSR/ConversorDeMoneda-AluraChallenger/assets/162364232/38af5ac3-c943-4364-92b2-5caabc1c981f)
 
-##Acceso Al Proyecto
-1. Copia este repositorio.
-2. Abre el archivo `Principal.java` en tu editor de código y ejecuta.
-3. Sigue las instrucciones en el archivo para realizar las conversiones deseadas.
+## Acceso Al Proyecto
+1. **Copia este repositorio.**
+2. **Abre el archivo `Principal.java` en tu editor de código y ejecuta.**
+3. **Sigue las instrucciones en el archivo para realizar las conversiones deseadas.**
+
+## Tecnologias Utilizadas
+1. **Java 17: Lenguaje de programacion principal.**
+2. **Intellij IDEA: Entorno de desarrollo.**
+3. **ExchangeRate: API.**
+4. **Biblioteca Gson para manejo de Json.**
+
+## Personas-Desarrolladores Del Proyecto
+**Francisco Javier Soto Ramírez.**
